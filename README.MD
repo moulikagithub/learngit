@@ -7,3 +7,5 @@
 * developing in rebas1
 ###
 *developing insquash
+### conflict
+* this is developer-1
